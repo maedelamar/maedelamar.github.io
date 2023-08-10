@@ -1,4 +1,4 @@
-document.getElementById('about-back-btn').addEventListener('click', () => location.href = '../index.html');
+document.getElementById('about-back-btn').addEventListener('click', () => location.href = '../');
 
 document.getElementById('project-btn').addEventListener('click', () => location.href = '../projects/projects.html');
 
