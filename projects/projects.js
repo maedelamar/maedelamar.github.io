@@ -1,6 +1,6 @@
-document.getElementById('about-btn').addEventListener('click', () => location.href = '/about/about.html');
+document.getElementById('project-back-btn').addEventListener('click', () => location.href = '../index.html');
 
-document.getElementById('project-btn').addEventListener('click', () => location.href = '/projects/project.html');
+document.getElementById('about-btn').addEventListener('click', () => location.href = '../about/about.html');
 
 const headerBtns = document.querySelectorAll('.my-stuff-btn');
 for (let btn of headerBtns) {
