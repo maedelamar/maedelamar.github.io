@@ -28,13 +28,12 @@ header {
 }
 
 main {
-    background-color: darkcyan;
     padding: 150px;
 }
 
 footer {
     background-color: black;
-    color: darkcyan;
+    color: white;
     display: flex;
     justify-content: space-evenly;
     font-size: 36pt;
