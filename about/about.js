@@ -7,3 +7,5 @@ for (let btn of headerBtns) {
     btn.addEventListener('mouseover', () => btn.style.backgroundColor = 'rgb(50, 50, 50)');
     btn.addEventListener('mouseout', () => btn.style.backgroundColor = 'black');
 }
+
+// temp
