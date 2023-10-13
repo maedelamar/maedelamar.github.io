@@ -44,3 +44,11 @@ footer {
     font-family: system-ui;
     padding: 50px;
 }
+
+a {
+    color: lightgreen;
+}
+
+a:visited {
+    color: red;
+}
