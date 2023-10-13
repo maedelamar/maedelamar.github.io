@@ -46,9 +46,9 @@ footer {
 }
 
 a {
-    color: lightgreen;
+    color: red;
 }
 
 a:visited {
-    color: red;
+    color: hotpink;
 }
