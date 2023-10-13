@@ -1,6 +1,7 @@
 header {
     background-color: black;
-    color: rgb(0, 139, 139);
+    color: rgb(164, 216, 216);
+    font-family: system-ui;
     padding: 30px;
 }
 
@@ -20,16 +21,18 @@ header {
 
 .my-stuff-btn {
     background-color: black;
-    color: rgb(180, 207, 202);
+    color: rgb(164, 216, 216);
     font-size: 2em;
-    border: 1px solid rgb(180, 207, 202);
+    font-family: system-ui;
+    border: 1px solid rgb(164, 216, 216);
     width: 100%;
     height: 80px;
 }
 
 main {
     padding: 150px;
-    background-color: rgb(0, 139, 139);
+    background-color: rgb(164, 216, 216);
+    font-family: system-ui;
 }
 
 footer {
@@ -38,5 +41,6 @@ footer {
     display: flex;
     justify-content: space-evenly;
     font-size: 3em;
+    font-family: system-ui;
     padding: 50px;
 }
